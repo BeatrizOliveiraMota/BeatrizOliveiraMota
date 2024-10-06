@@ -1,16 +1,15 @@
-## Hi there 👋
+## Seja bem-vindo ao meu perfil hehe👋💀
 
-<!--
-**BeatrizOliveiraMota/BeatrizOliveiraMota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Beatriz
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br) 😃
+- Estou estudando a linguagem de programação Lua 😏
+- Utilizo este espaço para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📬
+
+sla.meu.querido.amigo@gmail.com
+
+Até mais :-D
+
+  ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif) ![](https://media.tenor.com/oyFfNb4Wj_cAAAAj/spongebob-dance-spongebob-joget.gif)
